@@ -4,5 +4,11 @@ Hi, my name is Michael Pöttgen. I'm a software development manager and former p
 
 ## 
 
+[`Homepage`][home] - [`Blog`][blog] - [`Twitter`][twitter] - [`LinkedIn`][linkedin]
+
 [ndoc]: http://ndoc.sourceforge.net/
 [sf]: https://sourceforge.net/
+[home]: https://poettgen.de/
+[blog]: https://poettgen.de/category/tech-blog/
+[twitter]: https://twitter.com/mpoettgen/
+[linkedin]: https://www.linkedin.com/in/michael-pöttgen-40aa8392/
